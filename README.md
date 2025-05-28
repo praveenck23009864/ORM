@@ -55,7 +55,8 @@ class Movie(models.Model):
 
 ## OUTPUT
 
-![alt text](<Screenshot (275).png>)
+![orm](https://github.com/user-attachments/assets/f33c7221-80e8-404a-ae45-21eabbb59f6e)
+
 
 
 ## RESULT
