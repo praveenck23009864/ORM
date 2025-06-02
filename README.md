@@ -52,7 +52,7 @@ class Movie(models.Model):
 ```
 
 ## OUTPUT
-![Uploading 1.png…]()
+![1](https://github.com/user-attachments/assets/a78b7274-5802-4807-add8-b0d07d753ac0)
 
 
 ## RESULT
